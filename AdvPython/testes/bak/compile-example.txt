@@ -1,0 +1,1 @@
+gcc -o 'script' 'script-bak.cpp' $(python3-config --cflags --embed) $(python3-config --embed --ldflags)

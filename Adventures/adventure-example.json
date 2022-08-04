@@ -1,0 +1,22 @@
+{
+    "scene1": {
+        "Name": "Entrada da Caverna",
+	"Text": "Você se encontra em uma caverna úmida, com uma fogueira acessa ao centro. A oeste está a saida da caverna. Seguindo a leste a escuridão toma conta.",
+        "Allowed-Directions": ["E", "W"],
+        "Directions-Map": ["scene2", "scene6"],
+        "Allowed-Actions": ["attack", "take", "say"],
+	"Actions-Map": ["", "", ""],
+        "Itens-in-scene": ["table", "sword", "mace"],
+        "Characters-in-scene": []
+    },
+    "scene2": {
+        "Name": "Saída da caverna",
+	"Text": "Na saida da caverna você se depara com uma densa floresta úmida. Em meio às densas árvores você consegue observar dois caminnhos que seguem o contorno da montanha que você estava, uma ao norte e outra ao sul. E continuando à leste uma pequena trilha abre caminho na mata.",
+        "Allowed-Directions": ["N", "S", "E", "W"],
+	"Directions-Map": ["scene3", "scene4", "scene5", "scene1"],
+        "Allowed-Actions": ["attack", "take", "say"],
+	"Actions-Map": ["", "", "reaction"],
+        "Itens-in-scene": ["bussúla"],
+        "Characters-in-scene": []
+    }
+}

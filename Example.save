@@ -1,0 +1,27 @@
+[Character]
+Name = xxxxxxxxxx
+Class = xxxxxxxxxx xxxxxxxx xxxxxxxx
+Race = xxxxxxxx
+Type = xxxxxxx
+STR = 00
+DEX = 00
+CON = 00
+INT = 00
+WIS = 00
+CHA = 00
+Age = 00
+Att = 00
+Lp = 00/00
+Def = 00
+Hung = 00/00
+Langs = xxxxxxxxxx
+Hands = xxxxxxxxx xxxxxxxxx xxxxxxxxx
+Fingers = xxxxxxxxxx xxxxxxxx xxxxxxx
+Head = xxxxxxxx
+Cloths = xxxxxxxx
+Gold = 00
+Backpack = xxxxx xxxxx xxxxxx
+Belt = xxxxxx xxxxxx xxxxxx
+
+[Scene]
+Scene = scene1
